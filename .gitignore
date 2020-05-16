@@ -1,0 +1,6 @@
+# Arquivo binario
+go-redis-example
+
+# Vendor
+vendor/
+.vendor-new/
